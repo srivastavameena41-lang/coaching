@@ -1,0 +1,30 @@
+{
+  "faculty": {
+    "geeta-srivastava": "/photos/faculty_geeta-srivastava.jpg",
+    "anushka-srivastava": "/photos/faculty_anushka-srivastava.png",
+    "anupama-srivastava": "/photos/faculty_anushka-srivastava.png"
+  },
+  "gallery": [
+    {
+      "id": "snc-photo-1789926616395",
+      "title": "Cultural events",
+      "tag": "Classroom Batches",
+      "description": "Real learning and study moment at Shree Narayan Coaching Classes, Lohia Chauraha, Bahraich.",
+      "image": "/photos/gallery_cultural_events.jpg"
+    },
+    {
+      "id": "snc-photo-1789926545637",
+      "title": "Students secures positions",
+      "tag": "Classroom Batches",
+      "description": "Real learning and study moment at Shree Narayan Coaching Classes, Lohia Chauraha, Bahraich.",
+      "image": "/photos/gallery_students_secures_positions.jpg"
+    },
+    {
+      "id": "snc-photo-1789926456257",
+      "title": "Time to time activities",
+      "tag": "Classroom Batches",
+      "description": "Real learning and study moment at Shree Narayan Coaching Classes, Lohia Chauraha, Bahraich.",
+      "image": "/photos/gallery_time_to_time_activities.jpg"
+    }
+  ]
+}

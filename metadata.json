@@ -1,0 +1,6 @@
+{
+  "name": "Shree Narayan Coaching Classes",
+  "description": "Premier educational coaching center in Lohia Chauraha, Bahraich offering comprehensive programs from Play Group to Class 10, board exam guidance, and competitive exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
